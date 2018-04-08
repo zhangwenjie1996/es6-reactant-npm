@@ -1,0 +1,1 @@
+## 使用 ES6 编写一个 ant design的React 模块, 并且编译后发布到使用sinopia搭建的私有npm服务

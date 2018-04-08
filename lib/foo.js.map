@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/foo.es6"],"names":["foo"],"mappings":";;;;;AAAA,IAAMA,MAAM,SAANA,GAAM,GAAK;AACjB,SAAO,KAAP;AACC,CAFD;kBAGeA,G","file":"foo.js","sourcesContent":["const foo = ()=> {\nreturn \"foo\"\n}\nexport default foo "]}
